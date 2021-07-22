@@ -8,6 +8,8 @@
 
 ---
   
+<br/>
+  
 <img src="https://user-images.githubusercontent.com/87380790/126418857-602a98f9-0949-4366-94a1-ab40c9f9a5d4.gif" width="45%">
 
   
@@ -17,6 +19,8 @@
   게임 플레이 화면
 
 ---
+  
+<br/>
   
 <img src="https://user-images.githubusercontent.com/87380790/126415682-2d7c0bbd-5041-4d06-a082-cea83d3ce3d1.png" width="35%">
 <img src="https://user-images.githubusercontent.com/87380790/126415687-0c277cc1-5cd6-4339-850b-450f7d4ab2a6.png" width="35%">
