@@ -9,14 +9,14 @@
   
 ## 1. 스토리 씬
 > Sleep을 이용한 스토리 씬
-<img src="https://user-images.githubusercontent.com/87380790/175812416-6e5c300c-9321-4fb7-9dee-72b2cc6b31ee.gif" width="45%">
+<img src="https://user-images.githubusercontent.com/87380790/175812416-6e5c300c-9321-4fb7-9dee-72b2cc6b31ee.gif" width="60%">
 <br/>
 <br/>
 <br/>
   
 ## 2. 플레이어 조작
 > 방향키 한 번에 한 칸 이동  by. 김동규(팀원)
-<img src="https://user-images.githubusercontent.com/87380790/175812422-a1db6630-4d60-4ccf-9457-ecbc8c76fe5b.gif" width="45%">
+<img src="https://user-images.githubusercontent.com/87380790/175812422-a1db6630-4d60-4ccf-9457-ecbc8c76fe5b.gif" width="60%">
 <br/>
 <br/>
 <br/>
